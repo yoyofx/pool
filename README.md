@@ -57,6 +57,10 @@ current := p.Len()
 
 ```
 
+#### 实现流程
+![avatar](https://github.com/zhuCheer/pool/blob/master/flow.jpg)
+
+
 
 #### 注:
 该连接池参考 [https://github.com/fatih/pool](https://github.com/fatih/pool) 实现，改变以及增加原有的一些功能。
